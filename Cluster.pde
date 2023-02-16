@@ -1,6 +1,6 @@
 public class Cluster
 {
-    public final static int NUM_STEMS = 10; //number of tendrils per cluster
+    public final static int NUM_STEMS = 9; //number of tendrils per cluster
     private ArrayList<Tendril> tendrils;
     int myX, myY, myC, myLen;
     public Cluster(int len, int x, int y, int c)
